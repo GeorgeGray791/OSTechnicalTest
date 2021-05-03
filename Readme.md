@@ -3,10 +3,12 @@
 
 Project is a standard Java/Maven Project, tools required for build:
 
-* JDK 8 (Java SE Development Kit 8)
-* Apache Maven 3.6.3
+* `JDK 8 (Java SE Development Kit 8)`
+* `Apache Maven 3.6.3`
 
 From the project root, run `mvn clean package install`
+
+Alternatively, `IntelliJ` should be able to build and run the project.
 
 ## Run instructions
 
@@ -16,6 +18,6 @@ At which point you should be able to enter command strings.
 
 Tests are executed by maven when building the project, and found in [src/test/java/](https://github.com/GeorgeGray791/OSTechnicalTest/tree/master/src/test/java/org/georgegray)
 
-##Time spent
+## Time spent
 
 About 3:30 was spent on the implementation. All stages were completed. I expect this current document and finial sanity checks will take no more than 20 minutes.  
